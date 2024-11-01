@@ -2,13 +2,7 @@
 
 <p align="center">We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.</p>
 
-![linux graphic](http://i.imgur.com/3F0xXh8.jpg)
-
----
-
-<p align="center"> You might also want to check <a href="https://github.com/aleksandar-todorovic/awesome-c">awesome-c</a>, <a href="https://github.com/alebcay/awesome-shell">awesome-shell</a>, <a href="https://github.com/n1trux/awesome-sysadmin">awesome-sysadmin</a>, and <a href="https://github.com/sbilly/awesome-security">awesome-security</a>.</p>
-
----
+![linux graphic](./images/cover.png)
 
 ## Table of Content
 
@@ -62,43 +56,39 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [elementary OS](http://elementary.io/)
 
-> elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail. 
+> elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail.
 
-**Latest version:** elementary OS Juno (5.0)
+* **Latest version:** elementary OS 7.1 Horus
+* **Default Desktop Environment:** Pantheon
 
-**Default Desktop Environment:** Pantheon
-
-![default look](https://elementary.io/images/screenshots/desktop.jpg)
+![elementary OS](./images/elementary-desktop.jpg)
 
 #### [Fedora](https://getfedora.org/)
 
 > Fedora (formerly Fedora Core) is a Linux distribution developed by the community-supported Fedora Project and owned by Red Hat. Fedora contains software distributed under a free and open-source license and aims to be on the leading edge of such technologies. Fedora has a reputation for focusing on innovation, integrating new technologies early on and working closely with upstream Linux communities. The default desktop in Fedora is the GNOME desktop environment and the default interface is the GNOME Shell. Other desktop environments, including KDE, Xfce, LXDE, MATE and Cinnamon, are available. Fedora Project also distributes custom variations of Fedora called Fedora spins. These are built with specific sets of software packages, offering alternative desktop environments or targeting specific interests such as gaming, security, design, scientific computing and robotics.
 
-**Latest version:** Fedora Twenty Nine (29)
+* **Latest version:** Fedora 39
+* **Default Desktop Environment:** GNOME
 
-**Default Desktop Environment:** GNOME
-
-![default look](https://distrowatch.com/images/cgfjoewdlbc/fedora.png)
+![Fedora](./images/fedora-xfce.jpg)
 
 #### [Linux Mint](http://linuxmint.com/)
 
 > Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
-**Latest version:** Linux Mint Tessa (19.1)
+* **Latest version:** Linux Mint 21.3 "Virginia"
+* **Default Desktop Environment:** Cinnamon and MATE
 
-**Default Desktop Environment:** Cinnamon and MATE
-
-![default look](https://distrowatch.com/images/cgfjoewdlbc/mint.png)
+![Linux Mint](./images/linuxmint-cinnamon.png)
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
-> Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
+> Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
 
-**Latest version:** Ubuntu 18.10
+* **Latest version:** Ubuntu 24.04 LTS (Noble Numbat)
+* **Default Desktop Environment:** GNOME
 
-**Default Desktop Environment:** GNOME
-
-![default look](https://distrowatch.com/images/cgfjoewdlbc/ubuntu.png)
+![Ubuntu](./images/ubuntu-2404.png)
 
 ### Intermediate
 
@@ -106,51 +96,36 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > CentOS as a group is a community of open source contributors and users. Typical CentOS users are organisations and individuals that do not need strong commercial support in order to achieve successful operation. CentOS is 100% compatible rebuild of the Red Hat Enterprise Linux, in full compliance with Red Hat's redistribution requirements. CentOS is for people who need an enterprise class operating system stability without the cost of certification and support.
 
-**Latest version:** CentOS 7.1810
-
-**Default Desktop Environment:** GNOME
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/centos.png)
+* **Latest version:** CentOS Stream 9
+* **Default Desktop Environment:** GNOME
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
-> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
+> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together.
 
-**Latest version:** Debian Stretch (9.6)
-
-**Default Desktop Environment:** GNOME
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/debian.png)
+* **Latest version:** Debian 12 (Bookworm)
+* **Default Desktop Environment:** GNOME
 
 #### [Mageia](http://www.mageia.org/)
 
 > Mageia is a fork of Mandriva Linux formed in September 2010 by former employees and contributors to the popular French Linux distribution. Unlike Mandriva, which is a commercial entity, the Mageia project is a community project and a non-profit organisation whose goal is to develop a free Linux-based operating system.
 
-**Latest version:** Mageia 6.1
-
-**Default Desktop Environment:** KDE
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/mageia.png)
+* **Latest version:** Mageia 9
+* **Default Desktop Environment:** KDE Plasma
 
 #### [Manjaro](https://manjaro.org/)
 
 > Manjaro Linux is a fast, user-friendly, desktop-oriented operating system based on Arch Linux. Key features include intuitive installation process, automatic hardware detection, stable rolling-release model, ability to install multiple kernels, special Bash scripts for managing graphics drivers and extensive desktop configurability. Manjaro Linux offers Xfce as the core desktop options, as well as a minimalist Net edition for more advanced users. Community-supported GNOME 3/Cinnamon and KDE flavours are available. Users also benefit from the supportive and vibrant Manjaro community forum.
 
-**Latest version:** Manjaro 18.0.2
-
-**Default Desktop Environment:** XFCE, KDE
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/manjaro.png)
+* **Latest version:** Manjaro 23.1.3
+* **Default Desktop Environment:** XFCE, KDE Plasma, GNOME
 
 #### [openSUSE](http://www.opensuse.org/)
 
-> The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors. 
+> The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
 
-**Latest version:** openSUSE Leap 15.0 and openSUSE Tumbleweed (Rolling Release system)
-
-**Default Desktop Environment:** KDE, GNOME, XFCE, LXDE (Choose on installation)
-
-![default look](http://distrowatch.com/images/cgfjoewdlbc/opensuse.png)
+* **Latest version:** openSUSE Leap 15.5 and openSUSE Tumbleweed (Rolling Release system)
+* **Default Desktop Environment:** KDE Plasma, GNOME, XFCE (Choose on installation)
 
 ### Advanced
 
@@ -158,41 +133,93 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > Arch Linux is an independently developed, x86_64-optimised Linux distribution targeted at competent Linux users. It uses 'pacman', its home-grown package manager, to provide updates to the latest software applications with full dependency tracking. Operating on a rolling release system, Arch can be installed from a CD image or via an FTP server. The default install provides a solid base that enables users to create a custom installation. In addition, the Arch Build System (ABS) provides a way to easily build new packages, modify the configuration of stock packages, and share these packages with other users via the Arch Linux user repository.
 
-**Latest version:** Not applicable (Rolling Release system)
-
-**Default Desktop Environment:** Not applicable (there's no default Desktop environment)
+* **Latest version:** Not applicable (Rolling Release system)
+* **Default Desktop Environment:** Not applicable (there's no default Desktop environment)
 
 ### Special Purpose
 
 #### [CoreOS](https://coreos.com/)
 
-**Specialty:** Clusters
+* **Specialty:** Clusters
 
-> CoreOS is a Linux-based operating system for servers. Built from the ground up and designed primarily for the modern data centre, CoreOS provides specialist tools for making the system secure, reliable and up-to-date. Some of the more interesting features of the distribution include reliable updates and patches via FastPatch, a dashboard for managing rolling updates via CoreUpdate, a docker for packaging applications, as well as support for bare metal and many cloud providers.
+> CoreOS is now part of Red Hat and has evolved into Fedora CoreOS, which is a lightweight, container-focused operating system that is designed for running containerized workloads securely and at scale.
 
 #### [Kali Linux](http://www.kali.org/)
 
-**Specialty:** Penetration testing
+* **Specialty:** Penetration testing
 
 > Kali Linux (formerly known as BackTrack) is a Debian-based distribution with a collection of security and forensics tools. It features timely security updates, support for the ARM architecture, a choice of four popular desktop environments, and seamless upgrades to newer versions.
 
+* **Latest version:** Kali Linux 2024.1
+
 #### [Puppy Linux](http://puppylinux.org/)
 
-**Specialty:** Low system requirements
+* **Specialty:** Low system requirements
 
 > Puppy Linux is yet another Linux distribution. What's different here is that Puppy is extraordinarily small, yet quite full-featured. Puppy boots into a ramdisk and, unlike live CD distributions that have to keep pulling stuff off the CD, it loads into RAM. This means that all applications start in the blink of an eye and respond to user input instantly. Puppy Linux has the ability to boot off a flash card or any USB memory device, CDROM, Zip disk or LS/120/240 Superdisk, floppy disks, internal hard drive. It can even use a multisession formatted CD-RW/DVD-RW to save everything back to the CD/DVD with no hard drive required at all.
 
+* **Latest version:** FossaPup64 9.5
+
 #### [Ubuntu Studio](http://ubuntustudio.org/)
 
-**Specialty:** Multimedia creation
+* **Specialty:** Multimedia creation
 
 > Ubuntu Studio is a variant of Ubuntu aimed at the GNU/Linux audio, video and graphic enthusiast as well as professional. The distribution provides a collection of open-source applications available for multimedia creation.
 
+* **Latest version:** Ubuntu Studio 24.04 LTS
+
 #### [Tails](https://tails.boum.org/index.en.html)
 
-**Specialty:** Incognito live system
+* **Specialty:** Incognito live system
 
 > Tails is a live system that aims to preserve your privacy and anonymity. It helps you to use the Internet anonymously and circumvent censorship almost anywhere you go and on any computer but leaving no trace unless you ask it to explicitly. It is a complete operating system designed to be used from a USB stick or a DVD independently of the computer's original operating system. It is Free Software and based on Debian GNU/Linux. Tails comes with several built-in applications pre-configured with security in mind: web browser, instant messaging client, email client, office suite, image and sound editor, etc.
+
+* **Latest version:** Tails 6.0
+
+#### [Pop!_OS](https://pop.system76.com/)
+
+* **Specialty:** Development and Creative Work
+
+> Pop!_OS is a Linux distribution developed by System76, a computer manufacturer specializing in Linux-based systems. It's built on top of Ubuntu and features a customized GNOME desktop environment called COSMIC. The distribution is optimized for creative professionals, developers, and STEM users, with built-in support for both AMD and NVIDIA GPUs, excellent power management, and automatic window tiling. Pop!_OS also includes a custom application store and features like disk encryption by default.
+
+* **Latest version:** Pop!_OS 22.04 LTS
+* **Default Desktop Environment:** COSMIC (based on GNOME)
+
+#### [Zorin OS](https://zorin.com/os/)
+
+* **Specialty:** Windows-like Experience
+
+> Zorin OS is a Ubuntu-based Linux distribution designed specifically for newcomers to Linux. It features a Windows-like graphical interface and includes Wine, enabling users to run many Windows applications. The distribution aims to make Linux easy to use for people accustomed to Windows and macOS, while also providing powerful features for advanced users.
+
+* **Latest version:** Zorin OS 17
+* **Default Desktop Environment:** Zorin Desktop (based on GNOME)
+
+#### [EndeavourOS](https://endeavouros.com/)
+
+* **Specialty:** User-Friendly Arch Linux
+
+> EndeavourOS is the spiritual successor to Antergos, aimed at making Arch Linux more accessible to newcomers while still maintaining the DIY (do it yourself) spirit of Arch. It provides a friendly graphical installer and a welcoming community, while keeping the system as close to pure Arch as possible. The distribution comes with a choice of desktop environments and minimal bloat.
+
+* **Latest version:** EndeavourOS Cassini (Rolling Release)
+* **Default Desktop Environment:** XFCE (multiple options available during installation)
+
+#### [Linux From Scratch (LFS)](https://www.linuxfromscratch.org/)
+
+* **Specialty:** Educational
+
+> Linux From Scratch (LFS) is not a traditional distribution, but rather a book and project that provides step-by-step instructions for building your own custom Linux system from source code. It's an excellent educational resource for understanding how Linux systems work at a fundamental level. The project also includes Beyond Linux From Scratch (BLFS), which adds additional functionality to the base LFS system.
+
+* **Latest version:** LFS 12.1
+* **Default Desktop Environment:** Not applicable (build your own)
+
+#### [Garuda Linux](https://garudalinux.org/)
+
+* **Specialty:** Gaming and Performance
+
+> Garuda Linux is an Arch-based Linux distribution focused on performance and gaming. It features the Zen kernel by default, BTRFS filesystem with automatic snapshots, and a variety of desktop environment choices. The distribution comes with many gaming-oriented tools and optimizations pre-configured, making it an excellent choice for Linux gamers.
+
+* **Latest version:** Rolling Release
+* **Default Desktop Environment:** KDE Plasma (Dr460nized)
 
 ## Learning Resources
 
@@ -233,44 +260,211 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [Bash Guide for Beginners](https://linux.die.net/Bash-Beginners-Guide/)
 * [Advanced Bash-Scripting Guide](https://linux.die.net/abs-guide/)
 
-
 ## X Desktop Environments
 
 > You cannot talk about a unified Linux look because there is no such thing.
 
-![relevant XKCD](http://imgs.xkcd.com/comics/standards.png)
+![relevant XKCD](./images/standards.png)
 
 #### [GNOME](https://www.gnome.org)
 
-> GNOME 3 is an easy and elegant way to use your computer. It is designed to put you in control and bring freedom to everybody. GNOME 3 is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation.
+> GNOME provides a modern desktop environment that emphasizes simplicity and user experience. Now in its GNOME 45 release, it offers a polished and cohesive computing experience with excellent touch support, gesture controls, and a clean, minimalist interface. GNOME is developed by the GNOME community, a diverse, international group of contributors that is supported by an independent, non-profit foundation. The environment features a modern activities overview, integrated search, extensions support, and excellent integration with online services.
 
-![screenshot](https://www.gnome.org/wp-content/uploads/2015/03/activities-overview-3.16-940x529.png)
+* **Latest version:** GNOME 45
+* **Key Features:**
+  * Modern Activities Overview
+  * Universal Search
+  * Dynamic Workspaces
+  * Extensions Support
+  * Touch and Gesture Support
+  * GTK4 and libadwaita Design Language
 
-#### [KDE](https://www.kde.org)
+#### [KDE Plasma](https://www.kde.org)
 
-> The KDE® Community is an international technology team dedicated to creating a free and user-friendly computing experience, offering an advanced graphical desktop, a wide variety of applications for communication, work, education and entertainment and a platform to easily build new applications upon. We have a strong focus on finding innovative solutions to old and new problems, creating a vibrant atmosphere open for experimentation.
+> The KDE® Community creates Plasma, a powerful and highly customizable desktop environment that provides an elegant and modern computing experience. Plasma combines traditional desktop metaphors with modern technologies like Wayland support, adaptive transparency, and hardware acceleration. It offers extensive customization options while maintaining performance and stability. The environment includes a comprehensive suite of applications and development tools, making it suitable for both casual users and professionals.
 
-![screenshot](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
+* **Latest version:** Plasma 6
+* **Key Features:**
+  * Highly Customizable Interface
+  * Wayland Support
+  * KRunner Universal Search
+  * Activities and Virtual Desktops
+  * Widget System
+  * Qt-based Framework
 
 #### [Xfce](http://www.xfce.org/)
 
-> Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly.
+> Xfce is a lightweight desktop environment for UNIX-like operating systems. It aims to be fast and low on system resources, while still being visually appealing and user friendly. The project has evolved significantly while maintaining its core principles of speed and efficiency. Modern Xfce includes improvements in theming, better support for high DPI displays, and enhanced compatibility with modern technologies while keeping its traditional desktop layout.
 
-![screenshot](https://upload.wikimedia.org/wikipedia/commons/7/71/Xfce-4.4.png)
+* **Latest version:** Xfce 4.18
+* **Key Features:**
+  * Lightweight and Fast
+  * Traditional Desktop Layout
+  * Modular Design
+  * Low Resource Usage
+  * High DPI Support
+  * GTK3 Based
 
-#### [LXDE](http://lxde.org/)
+#### [MATE](http://www.mate-desktop.org/)
 
->  The "Lightweight X11 Desktop Environment" is an extremely fast-performing and energy-saving desktop environment. Maintained by an international community of developers, it comes with a beautiful interface, multi-language support, standard keyboard short cuts and additional features like tabbed file browsing. LXDE uses less CPU and less RAM than other environments. It is especially designed for cloud computers with low hardware specifications, such as netbooks, mobile devices (e.g. MIDs) or older computers. LXDE can be installed on many Linux distributions including Debian, Fedora, OpenSUSE and Ubuntu. It is the standard for Knoppix and lubuntu. LXDE also runs on OpenSolaris and BSD. LXDE provides a fast desktop experience; connecting easily with applications in the cloud. LXDE supports a wealth of programs that can be installed locally with Linux systems. The source code of LXDE is licensed partly under the terms of the GNU General Public License and partly under the LGPL.
+> MATE Desktop Environment is the continuation of GNOME 2. It provides an intuitive and attractive desktop environment using traditional metaphors for Linux and other Unix-like operating systems. MATE has evolved to support modern technologies while maintaining the classic desktop experience that many users prefer. The project actively maintains and improves the codebase, adding support for new technologies while preserving the familiar workflow.
 
-![screenshot](https://upload.wikimedia.org/wikipedia/commons/4/4c/LXDE_desktop_full.png)
+* **Latest version:** MATE 1.27
+* **Key Features:**
+  * Traditional Desktop Experience
+  * Modern GTK3 Support
+  * Comprehensive Application Suite
+  * HiDPI Support
+  * System Monitor
+  * Window Management
 
-#### Other Desktop Environments
+#### [Cinnamon](https://projects.linuxmint.com/cinnamon/)
 
-* [Cinnamon](http://developer.linuxmint.com/projects/cinnamon-projects.html) - Strives to provide a traditional user experience.
-* [EDE](https://edeproject.org/) - Small desktop environment built to be responsive, light in resource usage and to have a familiar look and feel.
-* [LXQt](http://lxqt.org/) - Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment. It is the product of the merge between the LXDE-Qt and the Razor-qt projects: A lightweight, modular, blazing-fast and user-friendly desktop environment.
-* [MATE](http://www.mate-desktop.org/) - Provides an intuitive and attractive desktop to Linux users using traditional metaphors. Fork of GNOME 2.
-* [Pantheon](https://elementary.io) - Pantheon is the default desktop environment originally created for the elementary OS distribution. The desktop has some similarities with GNOME Shell and macOS.
+> Cinnamon is a desktop environment that offers a modern take on the traditional desktop metaphor. Originally forked from GNOME Shell, it has evolved into its own distinct project. Cinnamon provides advanced features and customization options while maintaining a familiar and intuitive user experience. It's the flagship desktop environment of Linux Mint and has gained popularity for its balance of functionality and ease of use.
+
+* **Latest version:** Cinnamon 6.0
+* **Key Features:**
+  * Traditional Desktop Layout
+  * Advanced Effects
+  * Applets System
+  * Custom Themes Support
+  * Nemo File Manager
+  * Extensive Settings Manager
+
+#### [LXQt](http://lxqt.org/)
+
+> LXQt is the Qt port and the successor of LXDE, the Lightweight Desktop Environment. It focuses on being a lightweight, modular, blazing-fast and user-friendly desktop environment. LXQt has successfully combined the best aspects of LXDE and Razor-qt, offering a modern desktop experience that remains lightweight and efficient.
+
+* **Latest version:** LXQt 1.4
+* **Key Features:**
+  * Lightweight Qt-based Desktop
+  * Modular Design
+  * Low Resource Usage
+  * Modern Functionality
+  * Theme Support
+  * Multi-monitor Support
+
+#### Modern Alternatives
+
+* [Budgie](https://buddiesofbudgie.org/) - A modern desktop environment focusing on simplicity and elegance, originally developed by Solus and now maintained by Buddies of Budgie.
+* [Cosmic](https://github.com/pop-os/cosmic) - System76's new desktop environment written in Rust, featuring a modern design and focus on productivity.
+* [Hyprland](https://hyprland.org/) - A dynamic tiling Wayland compositor offering a modern take on desktop interaction with animations and effects.
+* [Pantheon](https://elementary.io) - The desktop environment of elementary OS, known for its macOS-like interface and focus on design consistency.
+* [Cutefish](https://cutefish-ubuntu.github.io/) - A new desktop environment with a focus on simplicity, beauty and practicality.
+
+### Notable Mentions
+
+* **Window Managers**: Many users opt for standalone window managers instead of full desktop environments:
+  * **i3wm**: Popular tiling window manager
+  * **Sway**: Wayland compositor implementing i3 compatible window management
+  * **AwesomeWM**: Highly configurable window manager
+  * **BSPWM**: Binary space partitioning window manager
+
+* **Compositors**:
+  * **Picom**: Modern X11 compositor
+  * **Wayfire**: 3D Wayland compositor
+  * **Mutter**: GNOME's Wayland compositor
+  * **KWin**: KDE Plasma's window manager and compositor
+
+### Rising Desktop Environments
+
+#### [JingOS JDE](https://www.jingli.cn/)
+
+> JingOS JDE (Jing Desktop Environment) is a Linux-based tablet-first desktop environment inspired by iPadOS. It features a touch-optimized interface with gesture controls, a control center, and a suite of mobile-friendly applications. While originally developed for JingOS, it's now available for other distributions.
+
+* **Key Features:**
+  * Touch-First Design
+  * Gesture Navigation
+  * Mobile-Friendly UI
+  * Convergence Support
+  * ARM Architecture Support
+
+#### [Deepin Desktop Environment (DDE)](https://www.deepin.org/en/dde/)
+
+> Deepin Desktop Environment is a beautiful, easy-to-use desktop environment originally created for deepin Linux. It features a modern design language, smooth animations, and integrated tools. DDE is built with Qt and offers a unique blend of aesthetics and functionality.
+
+* **Latest version:** DDE 23
+* **Key Features:**
+  * Modern Design Language
+  * Custom Widget Toolkit
+  * Control Center
+  * Dock and Launcher
+  * Screen Split
+  * Cloud Sync
+
+#### [Enlightenment](https://www.enlightenment.org/)
+
+> Enlightenment is not just a window manager for Linux/X11 and others, but also a whole suite of libraries to help create beautiful user interfaces with much less work. It's highly customizable and has been in development since 1996, evolving significantly over time.
+
+* **Latest version:** E27
+* **Key Features:**
+  * Compositing Manager
+  * Module System
+  * Low Resource Usage
+  * Advanced Theming
+  * Wayland Support
+
+#### [ukui](https://www.ukui.org/)
+
+> UKUI (Ubuntu Kylin User Interface) is a desktop environment developed by Ubuntu Kylin team. It's designed to be efficient, beautiful, and easy to use, with particular attention to traditional Chinese aesthetics and usability patterns.
+
+* **Latest version:** UKUI 3.1
+* **Key Features:**
+  * Traditional Design Elements
+  * Global Search
+  * Panel Customization
+  * Window Effects
+  * Qt5 Based
+
+#### [Trinity Desktop Environment (TDE)](https://trinity-desktop.org/)
+
+> Trinity Desktop Environment is a fork of KDE 3.5 that continues to maintain and develop the classic KDE3 desktop environment. It provides a traditional desktop experience with modern underpinnings.
+
+* **Latest version:** R14.0.13
+* **Key Features:**
+  * Classic KDE3 Experience
+  * Modern Backend Updates
+  * Legacy Application Support
+  * Comprehensive Settings
+  * Active Development
+
+### Experimental & Research Projects
+
+* [Project Looking Glass](https://en.wikipedia.org/wiki/Project_Looking_Glass) - A 3D desktop environment research project
+* [Lumina](https://lumina-desktop.org/) - A lightweight desktop environment designed for FreeBSD
+* [Hawaii Desktop](https://github.com/hawaii-desktop) - A Qt-based desktop environment designed for Wayland
+* [PaperDE](https://github.com/paperde) - A desktop environment focused on paper-like interfaces and document management
+
+### Desktop Environment Technologies
+
+* **Modern Display Servers:**
+  * **Wayland** - The modern display server protocol replacing X11
+  * **Arcan** - A display server, multimedia framework and game engine
+  
+* **GUI Toolkits:**
+  * **GTK4** - The latest version of the GIMP Toolkit
+  * **Qt6** - Modern version of the Qt framework
+  * **libadwaita** - GNOME's new design library
+  * **EFL** - Enlightenment Foundation Libraries
+
+* **Session Management:**
+  * **systemd-logind** - Modern login and seat management
+  * **elogind** - The systemd-logind daemon part
+  * **ConsoleKit2** - Alternative to logind for non-systemd systems
+
+### Notable Mentions
+
+* **Window Managers**: Many users opt for standalone window managers instead of full desktop environments:
+  * **i3wm**: Popular tiling window manager
+  * **Sway**: Wayland compositor implementing i3 compatible window management
+  * **AwesomeWM**: Highly configurable window manager
+  * **BSPWM**: Binary space partitioning window manager
+
+* **Compositors**:
+  * **Picom**: Modern X11 compositor
+  * **Wayfire**: 3D Wayland compositor
+  * **Mutter**: GNOME's Wayland compositor
+  * **KWin**: KDE Plasma's window manager and compositor
 
 ## X Windows Managers
 
@@ -294,7 +488,6 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [wmii](https://code.google.com/p/wmii/) - Small, scriptable window manager, with a 9P filesystem interface and an acme-like layout.
 * [xmonad](http://xmonad.org/) - Dynamically tiling X11 window manager. Makes work easier by automating aligning and searching for windows. Built using Haskell.
 
-
 ## Applications
 
 The list of awesome Linux applications that you should be using.
@@ -311,7 +504,7 @@ If you're looking for some pro-tips for your favorite text editor, you might be 
 * [Polari](https://wiki.gnome.org/Apps/Polari) - IRC client built to be easy to use.
 * [To Do](https://wiki.gnome.org/Apps/Todo) - Minimalistic personal task manager designed to fit right into your GNOME desktop.
 
-For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
+For more GNOME-based apps, visit: <https://wiki.gnome.org/Apps>
 
 #### Pantheon-based
 
@@ -328,7 +521,7 @@ For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/e
 * [Dolphin](https://userbase.kde.org/Dolphin) - File manager for KDE focusing on usability.
 * [Krita](https://krita.org/en/) - Painting program.
 
-For more KDE-based apps, visit: https://www.kde.org/applications/
+For more KDE-based apps, visit: <https://www.kde.org/applications/>
 
 #### Not based on any desktop environment
 
@@ -337,7 +530,7 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 * [GParted](https://gparted.sourceforge.io/) - The most popular disk partitioning software out there.
 * [Kodi](https://kodi.tv/) - Most popular entertainment center.
 * [Zathura](https://pwmt.org/projects/zathura/) - Highly customizable document viewer. It provides a minimalistic and space saving interface as well as an easy usage that mainly focuses on keyboard interaction.
-* [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives, safely and easily. 
+* [Etcher](https://www.balena.io/etcher/) - Flash OS images to SD cards and USB drives, safely and easily.
 
 #### Third-party clients for online services
 
