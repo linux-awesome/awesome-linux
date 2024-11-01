@@ -7,6 +7,8 @@
 
 ## Table of Content
 
+> Sorted alphabetically.
+
 * [Distributions](#distributions)
   * [Beginners](#beginners)
     * [elementary OS](#elementary-os)
