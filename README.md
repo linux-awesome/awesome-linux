@@ -244,8 +244,13 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
+#### [Practice Linux Commands](https://labex.io/courses/linux-basic-commands-practice-online) [Free]
+
+> This course is designed for beginners who want to learn Linux commands. It is a hands-on course with practice exercises that will help you to be familiar with the Linux command line.
+
 ### Bash Learning Resources
 
+* [Quick Start with Shell](https://labex.io/courses/quick-start-with-shell)
 * [Beautiful Bash: Let's make reading and writing bash scripts fun again!](https://www.slideshare.net/a_z_e_t/inpresentation)
 * [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 * [Linux Fu: Better Bash Scripting](https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/)
@@ -540,3 +545,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 #### [Linux.die](https://linux.die.net/)
 
 > Linux.die is a resource with documentation, tutorials, books, etc in Linux.
+
+#### [LabEx](https://labex.io/)
+
+> LabEx is a platform that provides free online courses on Linux, DevOps, and other IT-related topics.
